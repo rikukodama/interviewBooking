@@ -1,0 +1,123 @@
+{
+  "interviews": [
+    {
+      "interviewId": 23,
+      "interviewerId": 3,
+      "interviewerName": "bobsmith",
+        "intervieweeName": "johndoe",
+      "intervieweeId": 1,
+      "startTime": "11:30:00",
+      "endTime": "12:00:00",
+      "date": "04-04-2023",
+      "studentsNotes": null,
+      "adminFeedback": null,
+      "category": "Technical",
+      "instructions": "This interview will cover topics related to software engineering",
+      "title": "Software Engineer Interview",
+      "zoomLink": "https://zoom.us/j/1234567890",
+      "meetingStatus": "P",
+      "batch": "Batch 5"
+    },
+    {
+        "interviewId": 30,
+        "interviewerName": "bobsmith",
+        "intervieweeName": "johndoe",
+        "startTime": "04:59:00",
+        "endTime": "05:00:00",
+        "date": "05-04-2023",
+        "category": "Technical",
+        "instructions": "This interview will cover topics related to software engineering",
+        "title": "Software Engineer Interview",
+        "meetingLink": "https://zoom.us/j/1234567890",
+        "batch": "Batch 5",
+        "meetingStatus": "P",
+        "studentNote": null,
+        "adminFeedback": null
+    },
+    {
+      "interviewId": 40,
+      "interviewerName": "bobsmith",
+      "intervieweeName": "johndoe",
+      "startTime": "04:59:00",
+      "endTime": "05:00:00",
+      "date": "05-04-2023",
+      "category": "Technical",
+      "instructions": "This interview will cover topics related to software engineering",
+      "title": "Software Engineer Interview",
+      "meetingLink": "https://zoom.us/j/1234567890",
+      "batch": "Batch 5",
+      "meetingStatus": "P",
+      "studentNote": null,
+      "adminFeedback": null
+  }
+  ],
+  "ScheduleInterview": [
+    {
+      "interviewerEmail": "shivam@gmail.com",
+      "intervieweeEmail": "shivam@gmail.com",
+      "startTime": "19:17:00",
+      "endTime": "18:19:00",
+      "date": "2023-04-06",
+      "category": "category",
+      "instructions": "Shviam",
+      "title": "dsa",
+      "meetingLink": "https://us06web.zoom.us/j/81073976928",
+      "batch": "dsa 111",
+      "id": 1
+    }
+  ],
+  "Category":[
+    "JAVA",
+    "MERN",
+    "DSA",
+    "CSBT",
+    "GENERAL",
+    "PLACEMENT"
+],
+"adminListBycategory":[
+  {
+      "id": 1,
+      "name": "yogesh",
+      "email": "yogesh000saini@gmail.com",
+      "password": "$2a$10$wTaLHlxZEOhhqkwM.CVvPO0QBfoDvjGrb0I.bWYYiXxXy57j8cvU2",
+      "roles": [
+          {
+              "id": 101,
+              "name": "ROLE_ADMIN"
+          }
+      ],
+      "enabled": true,
+      "username": "yogesh000saini@gmail.com",
+      "authorities": [
+          {
+              "authority": "ROLE_ADMIN"
+          }
+      ],
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "accountNonExpired": true
+  },
+  {
+      "id": 30196,
+      "name": "yogesh",
+      "email": "yogesh@gmail.com",
+      "password": "$2a$10$Ql9yqExExHkTCqWgPAveP.6ABNc5olXAIyQU0WcMOrN7sovlUZYDG",
+      "roles": [
+          {
+              "id": 101,
+              "name": "ROLE_ADMIN"
+          }
+      ],
+      "enabled": true,
+      "username": "yogesh@gmail.com",
+      "authorities": [
+          {
+              "authority": "ROLE_ADMIN"
+          }
+      ],
+      "accountNonLocked": true,
+      "credentialsNonExpired": true,
+      "accountNonExpired": true
+  }
+]
+}

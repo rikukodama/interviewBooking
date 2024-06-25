@@ -1,0 +1,20 @@
+@media screen and (max-width: 600px) {
+    .checkbox-label {
+      display: block;
+      margin-bottom: 5px;
+    }
+    .input-group {
+      flex-wrap: wrap;
+    }
+    .input-group > * {
+      flex: 0 0 100%;
+      margin-bottom: 5px;
+    }
+    .input-group > :first-child {
+      margin-right: 10px;
+    }
+    .remove-button {
+      margin-left: auto;
+    }
+  }
+  

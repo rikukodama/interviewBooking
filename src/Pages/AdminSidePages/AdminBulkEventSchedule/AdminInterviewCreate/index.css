@@ -1,0 +1,22 @@
+.formMainDiv {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.title,
+.instruction {
+    grid-column-start: span 2;
+}
+
+.submitButton {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width:600px) {
+    .formMainDiv {
+        display: block;
+    }
+}

@@ -1,0 +1,50 @@
+.fc-scroller {
+    overflow-x: hidden !important;
+  }
+
+
+  .fc {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  border-radius: 10px; 
+  overflow: hidden; 
+}
+  .fc-header-toolbar {
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  .fc-button {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    color: white;
+    margin: 0 5px;
+    padding: 5px 10px;
+  }
+  .fc-button:hover {
+    background-color: #f5f5f5;
+  }
+  .fc-day-today {
+    background-color: #e6f7ff;
+    border: 1px solid #91d5ff;
+  }
+  
+ 
+  .fc-event {
+    background-color: #007bff;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 5px;
+    padding: 5px;
+  }
+  
+  .fc-event:hover {
+    background-color: #0056b3;
+  }
+  
+:root {
+    --fc-daygrid-event-dot-width: 8px;
+  }
+   
+ 

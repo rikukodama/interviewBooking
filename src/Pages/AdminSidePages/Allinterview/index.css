@@ -1,0 +1,38 @@
+/* .interview_containter{
+    margin: auto;
+    margin-top: 2cm;
+    padding: 1cm auto;
+} */
+.interview_box_btn{
+    display: block;
+    width: 100%;
+    height: 45px;
+    margin: auto;
+    /* margin-top: 10px; */
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #0e87f8;
+    border: 1.3px solid #1e89ed;
+    border-radius: 7px;
+}
+.interview_btn{
+    display: block;
+    width: 100%;
+    height: 45px;
+    /* margin: 10px auto; */
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #0e87f8af;
+    border: 1.3px solid #49a7ff;
+    border-radius: 7px;
+}
+.interview_btn:hover{
+    background-color: white;
+    color: #3182CE;
+}
+.interview_box_btn:hover{
+    background-color: white;
+    color: #3182CE;
+}

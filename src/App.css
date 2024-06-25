@@ -1,0 +1,30 @@
+
+.App{
+  font-family: 'Poppins', sans-serif;
+}
+.container{
+  /* background-color: rgb(243,244,246); */
+  padding-bottom: 10%;
+
+}
+:root{
+  width:100%;
+  background-color: rgb(243,244,246);
+
+
+  --fc-border-color: rgb(229, 223, 223);
+
+  --fc-button-text-color: rgb(13, 2, 2);
+  --fc-button-bg-color: #f5f8f6;
+  --fc-button-border-color: #f5f7f9;
+  --fc-button-hover-bg-color: #d2d6d8;
+  --fc-button-hover-border-color: white;
+
+  
+}
+
+
+ 
+
+
+
